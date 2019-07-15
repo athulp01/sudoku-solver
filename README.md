@@ -1,4 +1,4 @@
-# sudoku-solver[WIP]
+# Sudoku Solver [WIP]
 Feed in a image of a sudoku and get it solved!
 
 ## Instructions
